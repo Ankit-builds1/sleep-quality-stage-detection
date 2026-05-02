@@ -52,5 +52,4 @@ pip install mne pyEDFlib scipy numpy torch transformers bitsandbytes accelerate 
 
 ## Author
 
-Ankit Kumar — B.Tech CSE, Centurion University of Technology and Management  
-Supervised by Dr. Chinmayee Dora
+Ankit Dash — B.Tech CSE, Centurion University of Technology and Management  
